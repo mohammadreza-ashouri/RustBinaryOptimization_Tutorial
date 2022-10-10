@@ -9,10 +9,10 @@ Do not forget to subscribe and follow me:
 
 #Contact: ashourics@protonmail.com
 
-https://github.com/mohammadreza-ashouri/
-https://ashourics.medium.com/
-https://twitter.com/ashourics
-https://www.linkedin.com/in/drashouri/
-https://ashoury.net/
-https://odysee.com/@heapzip
-https://d.tube/#!/c/heapzipchannel99
+- https://github.com/mohammadreza-ashouri/
+- https://ashourics.medium.com/
+- https://twitter.com/ashourics
+- https://www.linkedin.com/in/drashouri/
+- https://ashoury.net/
+- https://odysee.com/@heapzip
+- https://d.tube/#!/c/heapzipchannel99
