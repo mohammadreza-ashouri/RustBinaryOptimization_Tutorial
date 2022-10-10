@@ -6,6 +6,7 @@
 
 
 See  [How to Minimize the Size of a Rust Binary in 10 Minutes!](https://youtu.be/aHE8a5-4fow)
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://youtu.be/aHE8a5-4fow)
 
 By default, the Rust compiler does not generate optimized binaries, which is vital for the wide spectrum of applications. In this video I show you some tips and tricks to optimize your binaries in Rust. 
 Do not forget to subscribe and follow me:
